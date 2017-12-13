@@ -1,0 +1,11 @@
+* {
+	box-sizing: border-box;
+	text-align: center;
+}
+
+#PseudoCode {
+	border: solid;
+	width: 50%;
+	margin-left: 320px;
+
+}
